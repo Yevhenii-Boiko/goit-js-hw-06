@@ -6,3 +6,6 @@ const ingredients = [
   'Herbs',
   'Condiments',
 ];
+
+const itemEl = document.createElement('li');
+console.log(itemEl);
